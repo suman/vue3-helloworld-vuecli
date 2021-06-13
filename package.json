@@ -2,7 +2,7 @@
   "name": "vue3-helloworld-vuecli",
   "version": "0.1.0",
   "private": false,
-  "main": "dist/vue3-helloworld-vuecli.js",
+  "main": "dist/vue3-helloworld-vuecli.umd.js",
   "scripts": {
     "build": "vue-cli-service build --formats umd --target lib ./src/index.js"
   },
